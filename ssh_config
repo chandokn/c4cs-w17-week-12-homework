@@ -2,7 +2,7 @@
 Host github
 	HostName github.com
 	User git
-	IdentityFile ~/.ssh/github.ke
+	IdentityFile ~/.ssh/github.key
 #CAEN
 Host chn
 	HostName login.engin.umich.edu
