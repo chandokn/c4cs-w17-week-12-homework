@@ -1,0 +1,10 @@
+#Let's add github first
+Host github
+	HostName github.com
+	User git
+	IdentityFile ~/.ssh/github.ke
+#CAEN
+Host chn
+	HostName login.engin.umich.edu
+	User chandokn
+	Compression yes
